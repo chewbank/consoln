@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
-  "name": "consoln",
+  "name": "@chewbank/consoln",
   "dependencies": {},
   "deprecated": false,
   "description": "简洁、优雅、可扩展的console控制台",
